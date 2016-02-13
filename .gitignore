@@ -1,0 +1,31 @@
+# Temporary files
+.ipynb_checkpoints
+*~
+\#*\#
+.\#*
+
+# latex auxiliary files:
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.nav
+*.snm
+*.synctex.gz
+auto
+
+# Python auxiliary files
+*.pyc
+.ropeproject
+
+# Compressed files for upload
+generated
+
+# Cached output
+.nb_output_cache
+
+# Misc
+.DS_Store
