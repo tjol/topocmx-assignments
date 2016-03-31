@@ -1,0 +1,11 @@
+Fatemi, V., Hunt, B., Steinberg, H., Eltinge, S.L., Mahmood, F., Butch, N.P., Watanabe, K., Taniguchi, T., Gedik, N., Ashoori, R.C., Jarillo-Herrero, P., 2014. Electrostatic Coupling between Two Surfaces of a Topological Insulator Nanodevice. Phys. Rev. Lett. 113, 206801.
+doi:10.1103/PhysRevLett.113.206801
+arXiv:1410.0655
+
+In this 2014 PRL paper, Fatemi et al. perform electronic transport measurements on thin (42 nm and 82nm) Bd\(_{1.5}\)Sb\(_{0.5}\)Te\(_{1.7}\)Se\(_{1.3}\) 3D topological insulators. In the thinner sample, they find finite capacitative coupling between the edge states at the bottom and the top edges of the crystal. This coupling is not seen in the thicker samples, which they attribute to increased screening of the electric field by the (larger) bulk. Large applied magnetic fields are found to increase the observed coupling between the edges, which the authors hypothesize to be indicative of the opening of a band gap.
+
+Most of the experimental techniques used are familiar from this week's lecture: they use a BSTS-type material and characterize the system primarily using the characteristic peak in resistance also shown in the lecture (see e.g. Fig. 2). To be able to attribute this to a surface state, they confirm its presence using ARPES (see Fig. 1(b)). The final part, which discusses a strong applied magnetic field, naturally alludes to concepts appearing in earlier lectures.
+
+Going through the lectures, focussing on topological edge states, it's easy to forget about the bulk. This paper on the other hand is really all about how the bulk is there, and it has properties that affect the edge states and how they relate to one another and the outside world (e.g. through the screening of electric fields, or the lack thereof). The paper also introduced pump-probe time-resolved ARPES (TRARPES) as a technique to access unoccupied states, which is (as the lecture points out) not possible with static ARPES.
+
+This is a nice experimental paper, which combines different techniques to carefully arrive at some interesting conclusions, while being suitably cautious about what they claim in the end. In particular, they give an alternative explanation for their results (viz. magnetocapacitance), which is clearly not their preferred interpretation, a fighting chance. 

@@ -1,0 +1,28 @@
+Lutchyn, Roman M., Tudor D. Stanescu, and S. Das Sarma. “Search for Majorana Fermions in Multiband Semiconducting Nanowires.” Physical Review Letters 106, no. 12 (March 21, 2011): 127001. 
+DOI:10.1103/PhysRevLett.106.127001
+arXiv:1008.0629
+
+In this paper, Lutchyn et al. consider a model of a narrow 2D semiconducting quantum
+well proximity-coupled to an s-wave superconductor and examine the possibility
+of Majorana states in this system. The parameters are chosen to be relevant to
+existing fabrication techniques and allow multiple occupied quasi-1D subbands, 
+in contrast to simpler pure 1D models. They find a régime for a certain range of
+Zeeman energies where Majorana modes are possible for a wide range of chemical
+potentials and conclude that a real system tuned to this "sweet spot" should support
+a topological state resistant to experimental fluctuations.
+
+The centrepiece of the paper is clearly the phase space diagram in Figure 2(a),
+but perhaps the most interesting aspect relative to what is discussed in the course
+so far is the discussion of the robustness of the "sweet spot". The authors focus 
+on the effect of temperature fluctuations on the chemical potential in the nanowire,
+which may plausibly be one of the most important considerations. They point out that
+their "sweet spot" strongly depends on the properties of the superconductor and its
+coupling to the nanowire, but conveniently gloss over any and all sources of variation
+or uncertainty in these factors. The discussion of impurities was welcome and
+interesting, but almost read like a bit of an afterthought.
+
+The paper shines in that it discusses a model designed to be close to a system known
+to be possible to fabricate and in that it gives a fairly concrete and plausible 
+recommendation as to how to create an observable topological Majorana state in the face
+of experimental limitations. However, the discussion of possible experimental fluctuations
+and especially impurities seems rather half-hearted at times. 

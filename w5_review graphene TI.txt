@@ -1,0 +1,11 @@
+Weeks, C., Hu, J., Alicea, J., Franz, M., Wu, R., 2011. Engineering a robust quantum spin Hall state in graphene via adatom deposition.
+arXiv:1104.3282 [cond-mat].
+
+
+The authors discuss the possibility of modifying the dispersion of graphene by adding heavy adatoms to the system in order to introduce a spin-orbit-mediated band gap while simultaneously maintaining PT symmetry, and as such creating the conditions for a realizable quantum spin Hall effect based topological insulator. They find that randomly adsorbed indium or thallium atoms would create the desired properties if correlated fluctuations in the chemical potential are kept below 10meV, which they conclude is experimentally feasible.
+
+The paper in a way parallels the section of the course on candidate materials for QSH topological insulators in that it looks at required properties of the Hamiltonian for the QSHE to appear, and looks into how to create these in a real system. Naturally, like the lectures, there is a lot of focus on maintaining the crucial symmetries. The way quantization is shown in Fig. 4 (b) and (d) is quite familiar.
+
+The setting, graphene, of course, is not seen in this lecture, and the concept of opening up a band gap at the K-point by adding strong spin-orbit coupling from sparse adatoms is a completely new; the idea is explained on an intuitive level in the 3rd paragraph, and in more detail later. Fig. 1 nicely illustrates possibly geometries of adatoms. The main "selling point", the possibility of creating Majorana modes by coupling a (graphene-based) TI to a superconductor, is also barely mentioned in the lecture.
+
+Much of the paper's appeal has got to be its focus on experimental realizability. The model is presented in a series of steps to make it more realistic (moving from a single adatom to randomly distributed adatoms), and the authors appear to be fairly thorough in their discussion of the impact of experimental noise and the justification for their conclusion that the proposed system is realizable.
