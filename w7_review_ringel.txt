@@ -1,0 +1,32 @@
+The strong side of weak topological insulators
+
+http://arxiv.org/abs/1105.4351
+Zohar Ringel, Yaacov E. Kraus, Ady Stern
+
+
+In this 2012 paper, Ringel et al analyse the dependence of the conductivity of
+3D weak topological insulator surface states on disorder and the orientation of
+the surfaces. They find that the "weak" topological surface states are quite
+robust in the presence of disorder that does maintains TR symmetry and does not
+close the bulk gap, and that, as a consequence of the inherent
+anisotropy of weak TIs, the surfaces' electronic properties strongly depend
+on the surface orientation.
+
+The idea that weak TIs are quite robust in the presence of certain types of
+disorder is familiar from the lectures, where vacancies in the lattice are
+discussed and then dismissed as not particularly interesting.
+
+Disorder on the surface, however, is not really considered in the lecture. One
+would think that surface disorder has great potential to absolutely ruin 
+topological states hosted at that surface. However, the idea, introduced early
+in section II of the paper, that *random* disorder doesn't readily affect the
+*topological* protection of a state is intuitively appealing.
+
+The idea of a slanted surface, as seen in Figure 3 (and discussed in section
+IV), is something that hadn't occurred to me at least when reading the lecture.
+Thanks to the anisotropy of the weak TI, directions in the lattice are
+meaningfully (to topology) defined, and a topologically non-trivial surface can
+have orientations. In the lectures, only the rectangular case is seen. There,
+the surface corresponds to a reciprocal lattice vector of e.g. (100), but
+it's also possible that others, such as (201), where [001] is the stacking
+direction, can be topological.
