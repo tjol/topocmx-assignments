@@ -1,0 +1,11 @@
+Scattering theory of topological insulators and superconductors
+
+http://arxiv.org/abs/1106.6351
+I. C. Fulga, F. Hassler, A. R. Akhmerov
+
+
+Fulga et al. present a computational approach to topologically classify the topological properties of Hamiltonians by analysing the scattering problem rather than the full Hamiltonian. This has the benefit of greatly reducing the complexity and computational effort of the problem, as they only need to take into account the states at the Fermi level – the only ones accessible to scattered states – rather than the full band structure. The scattering matrix itself is a Hamiltonian acting on scattered states, and has topological properties mirroring those of the original d-dimensional system, albeit in reduced (d-1) dimensions. This process can be repeated all the way down to 0D, mirroring, and in a way re-deriving, Bott periodicity.
+
+The method presented relies on traversing the periodic table of topological insulators as shown in this week's first lecture; Fig. 2 bears striking resemblance to the illustration of the Bott clock in the lecture, though it labels the symmetries in more detail and traverses the table in the opposite direction (since the paper talks about reducing dimensionality, while the lecture focusses on increasing it). One could make note of the fact that while the lecture uses the term "Bott *clock*", the figure in the paper moves across the figure in a clockwise direction.
+
+The lectures have relied heavily on scattering arguments; the main theme of the paper – deducing topological properties from scattering properties – it could be argued, has been something of a main theme of the course so far (note the shared author of the  two). However, to me, if nothing else, this paper really brought home the idea that, in taking this approach, we can regard the scattering problem as an interesting topological system in its own right.
