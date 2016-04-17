@@ -1,0 +1,15 @@
+Bardarson, J.H., Tworzydło, J., Brouwer, P.W., and Beenakker, C.W.J. (2007).
+    One-Parameter Scaling at the Dirac Point in Graphene.
+Physical Review Letters 99.
+doi:10.1103/PhysRevLett.99.106801
+arXiv:0705.0886
+
+
+This paper describes simulations of the scaling behaviour of the conducatance of graphene at the Dirac point, subject to random impurities. The authors calculate the scaling function β, confirming the applicability of the single-parameter scaling hypothesis, and find that β > 0 for all σ, i.e. there is no metal-insulator transition. This is in contrast with the scaling behaviour expected from geometry alone, and to previous guesses.
+
+This paper is all about scaling theory, covered in the first part of this week's lectures. Figure 1 and the inset in Figure 3 show β(σ) plots, just as seen in the lectures, while the remainder of the paper is mostly dedicated to surrounding discussion.
+
+The novelty of the paper relative to the course lies in its discussion of the specific example graphene. Graphene, unlike the systems (insulators, granted) mentioned in this week's lecture, only has a conducting phase, and no insulating one – it appears the Dirac point closes the band gap on average even in the presence of disorder.
+
+
+The paper is well-presented and to-the-point. It appears to be well-motivated, and discusses a delineated question quite thoroughly. The authors don't faff around.
